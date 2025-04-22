@@ -15,6 +15,12 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+The exercise 4 display two types of hero animation (standard hero animation and radial hero animation), please select Chrome (Web) to run this exercise.
+
+<img width="1200" alt="截屏2025-04-22 下午1 17 48" src="https://github.com/user-attachments/assets/690de908-bdaf-48f8-9e00-c1383cd41331" />
+Once the user run the app, it can find that two selector on the home page. 
+
+
 
 
 
